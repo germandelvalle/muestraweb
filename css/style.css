@@ -278,6 +278,7 @@ a:focus {
           align-items: center;
   background-size: cover;
   background-position: bottom;
+  padding-top: 30px;
 }
 
 .slider_section .row {
@@ -495,8 +496,8 @@ a:focus {
 .service_section .box {
   margin-top: 30px;
   text-align: center;
-  -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.15);
-          box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.15);
   padding: 25px 15px;
   -webkit-transition: all .3s;
   transition: all .3s;
